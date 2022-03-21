@@ -1,7 +1,13 @@
 body {
     background-color: rgb(81, 72, 146);
-    border-image: round;
 }
+styledimg {
+    background-image: url(".1598537929143.jpg");
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    style= "width: 150px"
 h1 {
     color:blue; 
     text-align: center; 
